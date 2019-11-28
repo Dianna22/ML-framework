@@ -1,0 +1,7 @@
+__pycache__/
+
+# Generated metrics
+experiments/
+
+# Data
+data/
